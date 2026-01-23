@@ -1,7 +1,7 @@
 {
   "name": "mcp-server-rwa",
-  "version": "0.1.0",
-  "description": "build/index.js",
+  "version": "0.1.1",
+  "description": "A MCP server to track Real World Assets (RWA) like Gold, Treasuries, and Real Estate.",
   "repository": {
     "type": "git",
     "url": "{"
